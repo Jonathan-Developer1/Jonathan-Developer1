@@ -174,7 +174,6 @@ Compartilho meu conhecimento e projetos através do GitHub, onde publico reposit
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    style="margin: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Jonathan-Developer1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 

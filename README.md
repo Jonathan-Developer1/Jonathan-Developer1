@@ -168,16 +168,20 @@ Compartilho meu conhecimento e projetos através do GitHub, onde publico reposit
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Jonathan-Developer1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Developer1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Developer1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
